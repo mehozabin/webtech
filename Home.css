@@ -1,0 +1,67 @@
+body {
+    background-color: whitesmoke;
+}
+
+a {
+    color: red;
+}
+
+.banner {
+    background-color: slategray;
+    padding: 50px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: white;
+}
+
+.options {
+    text-align: center;
+    padding: 0;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+    list-style-type: none;
+     margin: 0;
+     padding: 0;
+     overflow: hidden;
+     background-color: lightgray;
+ }
+ li{
+     display:block;
+     color:black;
+     text-align: center;
+     padding: 14px 16px;
+     text-decoration: none;
+     float: left;
+   }
+li:hover {
+     background-color: #F4A89C;
+   }
+
+
+   .c{
+    margin-left: 80px;
+    margin-right:80px;
+}
+
+.cl{
+    float: left;
+    width: 48%;
+    margin-bottom: 45px;
+  
+  
+}
+
+.cr{
+    float: right;
+    width: 48%;
+    margin-bottom: 45px;
+}
+
+.a1, .a2{
+    text-decoration: none;
+  
+  }
